@@ -15,7 +15,6 @@
   <img align="left" alt="Orcololo's" Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <br /> 
-## Hey there!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orcololo)
 ![Orcololo's github stats](https://github-readme-stats.vercel.app/api?username=orcololo)
