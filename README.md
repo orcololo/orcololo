@@ -13,8 +13,10 @@
 </a>
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-### I am Ajay Rhian Castro a.k.a Orcololo
+
+### I am Rhian Castro a.k.a Orcololo
 - Tecnology & Open Source enthusiast.
+
 <!--
 **orcololo/orcololo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
