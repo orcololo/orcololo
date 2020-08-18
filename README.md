@@ -16,6 +16,7 @@
 </a>
 <br />
 
-### I am Rhian! 
+I am a fullstack web development student @tryber!
+I love Opensource, JavaScript, Python and Go.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orcololo)
 ![Orcololo's github stats](https://github-readme-stats.vercel.app/api?username=orcololo)
