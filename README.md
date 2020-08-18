@@ -17,5 +17,5 @@
 <br />
 
 ### I am Rhian! 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orcololo)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orcololo)
 ![Orcololo's github stats](https://github-readme-stats.vercel.app/api?username=orcololo)
