@@ -15,9 +15,6 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 ### I am Ajay Rhian Castro a.k.a Orcololo
 - Tecnology & Open Source enthusiast.
-- A Computer Engineering Undergraduate Student. 
-- Currently working on some of my cool side projects based on Web Development and Machine Learning.
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 <!--
 **orcololo/orcololo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
