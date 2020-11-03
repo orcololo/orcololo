@@ -1,9 +1,9 @@
-## Hello World!
-* I'm Rhian, a software developer from Brazil!
+## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+*  I'm Rhian, a software developer from Brazil!
 * As a developer, I work with many technologies with focus on FullStack development. 
 
 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+
 <a href="https://twitter.com/orcolera">
   <img align="left" alt="Orcololo's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
