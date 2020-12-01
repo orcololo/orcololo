@@ -3,15 +3,11 @@
 * As a developer, I work with many technologies with focus on FullStack development. 
 
 
-
-<a href="https://twitter.com/orcolera">
-  <img align="left" alt="Orcololo's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a target="_blank" href="mailto:rhi.castro@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://www.linkedin.com/in/rhian-castro-947785101/">
+<a href="https://www.linkedin.com/in/rhian-castro/">
   <img align="left" alt="Orcololo's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/orcololo">
-  <img align="left" alt="Orcololo's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/orcola">
   <img align="left" alt="Orcololo's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
