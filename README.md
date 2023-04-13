@@ -3,7 +3,7 @@
 
 
 <p>👨‍💻 I am a 25 years old software developer from Macapá/AP - Brazil who loves innovative technologies that makes the world a better place!</p>
-<p>I mainly use JavaScript, Java, Python and Go! :)</p>
+<p>I mainly use JavaScript, Python and Go! :)</p>
 
 
 <h3 align="left">You can contact me at: </h3> 
